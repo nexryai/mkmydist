@@ -21,3 +21,4 @@ sudo PinguyBuilder clean
 echo "準備は完了しました。"
 sudo PinguyBuilder dist
 sudo PinguyBuilder dist iso mydist.iso
+echo "Done!"
