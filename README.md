@@ -7,7 +7,7 @@ PinguyBuilderでは個人情報等のファイルが残る可能性が高いの�
 ## 必要なパッケージ
 PinguyBuilderがインストールされている必要があります。　
 
-ubuntu20.04ではなくubuntu18.04を使用してください
+ubuntu20.04ではなくubuntu18.04を使用してください <BR>
 PinguyBuilderに必要なxresprobeのダウンロード
 
  <https://launchpad.net/ubuntu/+source/xresprobe/0.4.24ubuntu9/+build/1274262/+files/xresprobe_0.4.24ubuntu9_amd64.deb>
